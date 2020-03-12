@@ -14,7 +14,7 @@ It may take some time to load through binder.
 
 This is an initial attempt, so if you find any bugs, please let me know at Mathew_Barlow@uml.edu.  Over time, I will be adding more variables and more plots, and improving the quality of the graphics.  Here are samples of the maps, for the March 1993 "Superstorm."
 
-<img width="500" height="500" src="figures/hgt_vort.gif">
-<img width="500" height="500" src="figures/hgt_vvel.gif">
-<img width="500" height="500" src="figures/slp_pwat.gif">
+<img width="660" height="500" src="figures/hgt_vort.gif">
+<img width="660" height="500" src="figures/hgt_vvel.gif">
+<img width="660" height="500" src="figures/slp_pwat.gif">
 
