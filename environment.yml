@@ -1,0 +1,15 @@
+name: geo_scipy
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - python=3.6    # Python version 3.6
+    - cartopy       # Geographic plotting toolkit
+    - ipython       # IPython interpreter and tools
+    - jupyter       # Jupyter federation architecture
+    - jupyterlab    # Jupyter Lab environment
+    - matplotlib    # 2D plotting library
+    - netcdf4       # Wrapper for netcdf4
+    - numpy         # N-d array and numerics
+    - proj4         # geographic projections
+    - scipy         # Common math/stats/science functions
